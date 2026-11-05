@@ -1,0 +1,13 @@
+:root {
+    --zodiac-background: #f4f7fb;
+}
+
+body {
+    min-height: 100vh;
+    background: var(--zodiac-background);
+}
+
+.result-description {
+    background: #eef4ff;
+    color: #334155;
+}
